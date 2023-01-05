@@ -1,5 +1,5 @@
 # Chama
-This is a chama management system
+This is a chama management system created in django
 
 ### Contributors:
 - [Sam](https://github.com/Samnji/)

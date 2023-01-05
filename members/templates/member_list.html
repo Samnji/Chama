@@ -1,0 +1,18 @@
+<html>
+    <head>
+        <title>Member List</title>
+    </head>
+    <body>
+        <h1>List of Members</h1>
+        {% for member in object_list %}
+        <h3>Members {{member.id}}</h3>
+        <ul>
+            <li><b>First Name:</b> {{member.first_name}}</li>
+            <li><b>Last Name:</b> {{member.last_name}}</li>
+            <li><b>Deposit Amount:</b> {{member.deposit_amount}}</li>
+            <li><b>Withdraw Amount:</b> {{member.withdraw_amount}}</li>
+            <li><b>Rank:</b> {{member.rank}}</li>
+        </ul>
+        {% endfor %}
+    </body>
+</html>

@@ -2,5 +2,5 @@
 This is a chama management system
 
 ### Contributors:
-- [Sam](github.com/Samnji)
-- [K0r3s](github.com/0xAckerMan)
+- [Sam](https://github.com/Samnji/)
+- [K0r3s](https://github.com/0xAckerMan)
